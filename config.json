@@ -1,6 +1,6 @@
 {
     "login": "login",
     "password": "password",
-    "login_url": "https://login_url",
+    "auth_url": "https://auth_url",
     "schema_name": "schema_name"
 }
