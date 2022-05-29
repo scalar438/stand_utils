@@ -8,5 +8,5 @@ class Config:
             params = json.load(f)
         self.login = params["login"]
         self.password = params["password"]
-        self.auth_url =params["auth_url"]
+        self.auth_url = params["auth_url"]
         self.schema_name = params["schema_name"]
